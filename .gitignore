@@ -1,0 +1,5 @@
+vendor/
+storage/uploads/
+storage/json/
+*.log
+.DS_Store
